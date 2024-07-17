@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kriaaa/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/kriaaa/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kriaaa/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/kriaaa/CrackYourPlacement/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
