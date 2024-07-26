@@ -30,6 +30,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/kriaaa/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kriaaa/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0908-middle-of-the-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kriaaa/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
