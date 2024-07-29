@@ -59,6 +59,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kriaaa/CrackYourPlacement/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/kriaaa/CrackYourPlacement/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
@@ -80,6 +81,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/kriaaa/CrackYourPlacement/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/kriaaa/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kriaaa/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
