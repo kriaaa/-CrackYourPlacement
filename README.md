@@ -18,6 +18,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kriaaa/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kriaaa/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kriaaa/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 ## Matrix
@@ -30,6 +31,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/kriaaa/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kriaaa/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kriaaa/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -76,5 +78,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/kriaaa/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
