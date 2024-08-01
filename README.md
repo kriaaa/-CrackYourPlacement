@@ -13,6 +13,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kriaaa/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [2727-number-of-senior-citizens](https://github.com/kriaaa/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/kriaaa/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
