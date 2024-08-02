@@ -13,6 +13,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kriaaa/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/kriaaa/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/kriaaa/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
