@@ -13,6 +13,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kriaaa/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kriaaa/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kriaaa/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/kriaaa/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -26,6 +27,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/kriaaa/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kriaaa/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0075-sort-colors](https://github.com/kriaaa/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kriaaa/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kriaaa/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
 |  |
