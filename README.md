@@ -73,12 +73,14 @@
 | ------- |
 | [0050-powx-n](https://github.com/kriaaa/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kriaaa/CrackYourPlacement/tree/master/0062-unique-paths) |
+| [0273-integer-to-english-words](https://github.com/kriaaa/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/kriaaa/CrackYourPlacement/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/kriaaa/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/kriaaa/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/kriaaa/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/kriaaa/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
