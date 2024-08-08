@@ -13,6 +13,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kriaaa/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0921-spiral-matrix-iii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kriaaa/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kriaaa/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/kriaaa/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kriaaa/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
