@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kriaaa/CrackYourPlacement/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/kriaaa/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/kriaaa/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kriaaa/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
@@ -147,4 +148,8 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/kriaaa/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
