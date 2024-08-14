@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kriaaa/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/kriaaa/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0921-spiral-matrix-iii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/kriaaa/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kriaaa/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -54,6 +55,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kriaaa/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/kriaaa/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kriaaa/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
@@ -63,6 +65,7 @@
 | [0075-sort-colors](https://github.com/kriaaa/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/kriaaa/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kriaaa/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kriaaa/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -75,6 +78,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kriaaa/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/kriaaa/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kriaaa/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Math
 |  |
