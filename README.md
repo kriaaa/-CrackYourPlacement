@@ -20,6 +20,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kriaaa/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kriaaa/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kriaaa/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/kriaaa/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -45,6 +46,7 @@
 | [0921-spiral-matrix-iii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/kriaaa/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kriaaa/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Depth-First Search
 |  |
 | ------- |
