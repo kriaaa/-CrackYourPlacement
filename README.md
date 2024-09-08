@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kriaaa/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/kriaaa/CrackYourPlacement/tree/master/0056-merge-intervals) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kriaaa/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kriaaa/CrackYourPlacement/tree/master/0075-sort-colors) |
