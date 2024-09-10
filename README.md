@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kriaaa/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kriaaa/CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0061-rotate-list) |
