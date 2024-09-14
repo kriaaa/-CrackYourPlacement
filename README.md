@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kriaaa/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kriaaa/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/kriaaa/CrackYourPlacement/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/kriaaa/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0229-majority-element-ii) |
@@ -156,6 +157,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/kriaaa/CrackYourPlacement/tree/master/0135-candy) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/kriaaa/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
