@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kriaaa/CrackYourPlacement/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/kriaaa/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kriaaa/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -99,6 +100,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/kriaaa/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kriaaa/CrackYourPlacement/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/kriaaa/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/kriaaa/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 ## Recursion
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kriaaa/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kriaaa/CrackYourPlacement/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
