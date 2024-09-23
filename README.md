@@ -24,6 +24,7 @@
 | [0921-spiral-matrix-iii](https://github.com/kriaaa/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/kriaaa/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kriaaa/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1582-design-browser-history](https://github.com/kriaaa/CrackYourPlacement/tree/master/1582-design-browser-history) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/kriaaa/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kriaaa/CrackYourPlacement/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/kriaaa/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -145,10 +146,12 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/kriaaa/CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/kriaaa/CrackYourPlacement/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kriaaa/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/kriaaa/CrackYourPlacement/tree/master/1582-design-browser-history) |
 ## String
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kriaaa/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/kriaaa/CrackYourPlacement/tree/master/1582-design-browser-history) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -210,6 +214,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kriaaa/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/kriaaa/CrackYourPlacement/tree/master/1582-design-browser-history) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -218,4 +223,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kriaaa/CrackYourPlacement/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/kriaaa/CrackYourPlacement/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
